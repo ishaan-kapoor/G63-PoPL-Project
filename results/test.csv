@@ -1,0 +1,6 @@
+Pub-Sub calls,Golang avg. Time for a single call(in microseconds),C++ avg. Time for a single call (in microseconds)
+10,509,210
+50,139,91
+1000,66,54
+10000,36,26
+100000,32,27

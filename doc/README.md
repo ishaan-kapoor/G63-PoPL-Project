@@ -1,5 +1,3 @@
-# Comparative Analysis of Implementing PubSub in Golang vs. C++
-
 ## Problem Statement
 **Comparative Analysis of Implementing PubSub in Golang vs. C++**
 The end problem we are addressing is an empirical comparison of the performance between Golang and C++ in a Pub/Sub architecture. This involves examining how the intrinsic characteristics of these languages, such as concurrency management, memory handling, and execution efficiency, influence their performance in a distributed, message-oriented setting.
